@@ -1,0 +1,113 @@
+Enter the Studio interview exercise.
+
+#########
+  INTRO
+#########
+
+In the src folder you will find a simple static html page with a few resources. The primary goal of this exercise is demonstrate your understanding and ability to create responsive website builds. Below are a list of challenges to complete while making this page responsive. You are not required to do all the tasks, but the more the better. Using a large framework in this instance like Angular will be considered overkill but using a library like jQuery is totally ok. Please write all your own HTML and CSS and avoid copying this content into a framework like bootstrap.
+
+############################
+  CHALLENGE TASKS REQUIRED
+############################
+
+1.) Make the page responsive. The page is currently built at the max width it will need to be (1024px). We will leave it up to you to decide where to put your media queries, but we would like to see the big ones like the iPad in portrait (768px / 1024px) all the way down to the iPhone 5 (320px / 568px). You can change the width of any boxes you want, but make sure all the content in each box is still visible.
+
+2.) At some point as the browser width shrinks, the nav should be hidden to save space on the users screen. Once the nav is hidden, a button should be added to the page that will allow the user to toggle the nav open and close. What this looks like and how it works is up to you. There are images available to use for the toggle button in the images folder, but feel free to use something else if you'd like. Feel free to bring in something like jQuery or GreenSock to help with this task.
+
+############################
+  CHALLENGE TASKS OPTIONAL
+############################
+
+3.) On document ready, make the nav animate onto the page when showing the desktop layout (BONUS points for animating the nav using css transitions/animations).
+
+4.) Animate the nav open and close when clicking the toggle button in the mobile layout (BONUS points for animating the nav using css transitions/animations).
+
+################################
+	MORE EXTRA CREDIT BUT NOT REQUIRED
+################################
+
+* For Item 3, add a custom image for the bullet point. Any custom bullet point image will do (https://design.google.com/icons/).
+
+* Complete the required challenges without modifying the existing html between the START and END LAYOUT comments (It is possible to complete all challenges without modifying the html).
+
+* Make sure your responsive version of this site works in the latest version of Windows Desktop Chrome, Firefox, Edge, Internet Explorer (11, 10), OS X / iOS Safari, and Chrome for Android.
+
+###########
+  CONTACT
+###########
+
+For any questions, contact Tom Wenning at tom@enterthestudio.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enter the Studio interview exercise.
+
+#########
+  INTRO
+#########
+
+In the src folder you will find a simple static html page with a few resources. The primary goal of this exercise is demonstrate your understanding and ability to create responsive website builds. Below are a list of challenges to complete while making this page responsive. You are not required to do all the tasks, but the more the better. Using a large framework in this instance like Angular will be considered overkill but using a library like jQuery is totally ok.
+
+############################
+  CHALLENGE TASKS REQUIRED
+############################
+
+1.) Make the page responsive. The page is currently built at the max width it will need to be (1024px). We will leave it up to you to decide where to put your media queries, but we would like to see the big ones like the iPad in portrait (768px / 1024px) all the way down to the iPhone 5 (320px / 568px).
+
+2.) At some point as the browser width shrinks, the nav should be hidden to save space on the users screen. Once the nav is hidden, a button should be added to the page that will allow the user to toggle the nav open and close. What this looks like and how it works is up to you. There are images available to use for the toggle button in the images folder, but feel free to use something else if you'd like. Feel free to bring in something like jQuery or GreenSock to help with this task.
+
+############################
+  CHALLENGE TASKS OPTIONAL
+############################
+
+3.) On document ready, make the nav animate onto the page when showing the desktop layout (BONUS points for animating the nav using css transitions/animations).
+
+4.) Animate the nav open and close when clicking the toggle button in the mobile layout (BONUS points for animating the nav using css transitions/animations).
+
+5.) Your responsive version of this site should work in the latest version of Windows Desktop Chrome, Firefox, Edge, Internet Explorer (11, 10), OS X / iOS Safari, and Chrome for Android.
+
+6.) Write all your CSS from scratch, avoid using a framework like Bootstrap.
+
+7.) Complete the required challenges without modifying the existing html between the START and END LAYOUT comments (It is possible to complete all challenges without modifying the html).
+
+8.) Make the footer stick to the bottom of the page, but do not make it fixed.
+
+9.) Ensure that the background image for Item 2 always covers the entire element, even if its height were to grow by 800px tall and remain at the same width.
+
+10.) For Item 3, add a custom image for the bullet point. Any custom bullet point image will do (https://design.google.com/icons/).
+
+11.) Complete this interview exercise using either GitHub or Bitbucket and then send us a link to the repo.
+
+###########
+  CONTACT
+###########
+
+For any questions, contact Tom Wenning at tom@enterthestudio.com
