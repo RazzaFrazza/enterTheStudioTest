@@ -304,7 +304,6 @@ footer:after {
         position: fixed;
         right: 4%;
         top: 1em;
-        background-image: url('../images/menu.png');
     }
     .main-nav {
         display: none;
